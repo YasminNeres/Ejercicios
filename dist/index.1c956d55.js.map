@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,SAASC,cAAc,UAAUC,iBAAiB,QAAQ,SAACC,GACvDC,QAAQC,IAAI,UAAWF,EAAGG","sources":["scripts/main.js"],"sourcesContent":["document.querySelector('#audio').addEventListener('play', (ev) => {\r\n    console.log('playing', ev.target);\r\n});"],"names":["document","querySelector","addEventListener","ev","console","log","target"],"version":3,"file":"index.1c956d55.js.map"}

@@ -1,0 +1,2 @@
+body{height:100vh}body .progress{background:rgba(60,60,60,.6);border-radius:6px;bottom:100%;cursor:pointer;height:8px;left:20px;margin:auto;-webkit-transition:height .1s ease-in-out;transition:height .1s ease-in-out;width:200px}body .progress:hover{height:10px}body .progress .progress-filled{background:#0094ff;border-radius:6px;height:100%;-webkit-transition:all .1s;transition:all .1s;width:0}
+/*# sourceMappingURL=index.cb09bb9d.css.map */
